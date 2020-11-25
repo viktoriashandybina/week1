@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "victoriaivt2",
+      "Access-Control-Allow-Origin": "*"
+    },
+    "/login/": {
+      "X-Author": "victoriaivt2",
+      "Content-Type": "text/plain; charset=UTF-8",
+      "Access-Control-Allow-Origin": "*"
+    },
+    "/sample/": {
+      "X-Author": "victoriaivt2",
+      "Content-Type": "text/plain",
+      "Access-Control-Allow-Origin": "*"
+    },
+    "/promise/": {
+      "X-Author": "victoriaivt2",
+      "Content-Type": "text/plain",
+      "Access-Control-Allow-Origin": "*"
+    },
+    "/fetch/": {
+      "X-Author": "victoriaivt2",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
