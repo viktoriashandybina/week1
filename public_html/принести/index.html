@@ -1,0 +1,12 @@
+  
+<input id="inp"></input>
+<button id="bt">bonk</button>
+<script defer>
+	const inp = document.querySelector('#inp');
+	document.querySelector('#bt').addEventListener('click', () => {
+	fetch(inp.value, )
+		.then((x => {
+			x.text().then(x1 => inp.value = x1);
+		}))
+	});
+</script>
